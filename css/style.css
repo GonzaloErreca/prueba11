@@ -1,0 +1,81 @@
+.w-30 {
+  width: 30%;
+}
+
+.navegacion {
+  list-style: none;
+}
+
+.navegacion a {
+  text-decoration: none;
+}
+
+.navbar-collapse {
+  flex-grow: 0;
+}
+
+/* banner */
+.hero {
+  background-image: url(../media/ropero.jpeg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 80vh;
+  background-attachment: fixed;
+}
+
+/* estilos de productos */
+.trabajos {
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  border-radius: 100px 0 100px;
+  background-color: aquamarine;
+  margin-bottom: 30px;
+}
+
+/* ---------------------------------- */
+/* estilos de los articles del index  */
+/* ---------------------------------- */
+
+article {
+  width: 50%;
+}
+/* ---------------------------------- */
+
+/* ---------------------------------- */
+/*       estilos de los iconos        */
+/* ---------------------------------- */
+i {
+  color: #fff;
+  font-size: 20px;
+  margin: 0 10px;
+}
+/* ---------------------------------- */
+
+/* ---------------------------------- */
+/*         estilos de acerca de       */
+/* ---------------------------------- */
+.acercaDe {
+  height: 100vh;
+}
+/* ---------------------------------- */
+
+/* ---------------------------------- */
+/*         estilos de servicios       */
+/* ---------------------------------- */
+.card {
+  height: 300px;
+  background-color: #c3c3c3;
+  margin-bottom: 20px;
+}
+/* ---------------------------------- */
+
+/* ---------------------------------- */
+/*          estilos del footer        */
+/* ---------------------------------- */
+footer {
+  padding: 25px;
+  color: #fff;
+}
+/* ---------------------------------- */
